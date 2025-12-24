@@ -1,6 +1,6 @@
 {
 	"Name": "RedByDaylight",
-	"Version": 1766544725,
+	"Version": 1766546462,
 	"MaxPerkRepetition": 4,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -617,7 +617,10 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				96,
+				94
+			],
 			"ItemWhitelist": [
 				7,
 				8,
